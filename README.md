@@ -1,5 +1,6 @@
-# NFT-Practices
+# Blockchain-Practice
 A record of what I learned from Youtube and Udemy.
+Coding as well as general info about blockchain. Especially cryptos and NFTs.
 
 <2/14 - 2/20> </br>
 - Udemy: The Complete NFT Course </br>
