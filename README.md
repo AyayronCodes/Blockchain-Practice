@@ -17,7 +17,6 @@ https://www.youtube.com/watch?v=MnSmc7Hto2k&list=PLS5SEs8ZftgUq-aMMYeKf8nPqHrNqa
 Dapp University seems to be in line with what I'm trying to learn right now. I watched couple of his longer YouTube tutorials before and they were very informational. </br>
 This video seems to be his easiest video so it seemed to be a perfect place to start learning to code NFT. </br>
 Worked on a very high-level smart contract that simply Reads/sets string value. Worked on remix. </br>
-</br>
 - Youtube: Solidity for Beginners - Smart Contract Developer Tutorial #2 </br>
 https://www.youtube.com/watch?v=hO62lD_Ulys&list=PLS5SEs8ZftgUq-aMMYeKf8nPqHrNqa3Iu&index=2&ab_channel=DappUniversity </br>
 variable types </br>
