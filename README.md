@@ -3,7 +3,7 @@ A record of what I learned from Youtube and Udemy.
 
 <2/14 - 2/20>
 - Udemy: The Complete NFT Course
-www.udemy.com/course/the-complete-nft-course-learn-everything-about-nfts
+www.udemy.com/course/the-complete-nft-course-learn-everything-about-nfts </br>
 Very brief introduction to NFTs how how to buy & sell on marketplaces and use third party websites to create and launch your own NFT.
 Wasn't really what I was looking for because I wanted to learn the coding aspect of it. Also, the amount of info provided was pretty shallow. Mostly stuff I could
 learn on YouTube.
