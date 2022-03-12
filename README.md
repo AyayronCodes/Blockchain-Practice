@@ -26,7 +26,7 @@ enum </br>
 
 ------------------------------------------------------
 
-Couldn't do much because of midterms...
+Couldn't do much because of midterms and school projects...
 
 ------------------------------------------------------
 
