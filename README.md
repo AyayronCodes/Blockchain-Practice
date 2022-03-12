@@ -54,5 +54,8 @@ Couldn't do much because of midterms and school projects...
 <3/11> </br>
 - Linkedin: Blockchain Basics </br>
 https://www.linkedin.com/learning/blockchain-basics-14414119/the-future-of-blockchain-innovation?autoSkip=true&autoplay=true&resume=false </br>
-Good recap of what blockchain is. I liked the last two parts in which the instructor talks about how blockchain can be used in diverse industries (voting system like Rock n Roll hall of fame bot attack example, supply chain, finance, etc) and blockchain's main challenges (regulatory uncertainty, lack of user trust, scalability, etc.)
-Just trying out Linkedin Learning since they offer one month free trial. The contents seem to be better than Udemy.
+Good recap of what blockchain is. I liked the last two parts in which the instructor talks about how blockchain can be used in diverse industries (voting system like Rock n Roll hall of fame bot attack example, supply chain, finance, etc) and blockchain's main challenges (regulatory uncertainty, lack of user trust, scalability, etc.). </br>
+Pretty short course with just over one hour of vids, finished today. </br>
+Just trying out Linkedin Learning since they offer one month free trial. The contents seem to be better than Udemy. </br>
+-Linkedin: Become a Blockchain Developer </br>
+
