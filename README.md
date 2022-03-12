@@ -2,6 +2,23 @@
 A record of what I learned from Youtube, Linkedin Learning, Udemy, etc.
 Coding as well as general info about blockchain. Especially cryptos and NFTs.
 
+------------------------------------------------------
+
+<2021>
+Watched quite a bit of Youtube videos about blockchain and cryptos
+Some of the channels I really liked are:
+Whteboard Crypto: https://www.youtube.com/c/WhiteboardCrypto (easier to watch for beginners, watched most of the vids)
+Finematics: https://www.youtube.com/channel/UCh1ob28ceGdqohUnR7vBACA (solid all around, learned a lot of defi related stuff here, watched most of the vids)
+99Bitcoins: https://www.youtube.com/c/Bitcoinwithpaypal/featured (more detailed than Whiteboard, watched like half of cryto related vids)
+GoldSilver: https://www.youtube.com/channel/UCx7YSpyYtgaYik1Wen9jYSA (best easy-to-understand visual demonstration on how blockchain works)
+https://www.youtube.com/c/Goldsilver (not blockchain related but their Hidden Secrets of Money series helped me understand why Bitcoin is so important)
+신박한 신박사: https://www.youtube.com/c/%EC%8B%A0%EB%B0%95%ED%95%9C%EC%8B%A0%EB%B0%95%EC%82%AC (got to know many big names in crypto and Bitcoin maximalists like Michael Saylor, Jack Mallers, Jack Dorsey, Robert Breedlove, Jimmy Song, etc. Mostly clips of their interviews in which they emphasize the importance and potential of cryptos)
+Lex Fridman: https://www.youtube.com/c/lexfridman (blockchain related interviews)
+
+Other than watching videos, I played around with Dapps like Compound Finance, Uniswap, PoolTogether, etc. because gas fees were way lower back then...
+
+------------------------------------------------------
+
 <2/14 - 2/20> </br>
 - Udemy: The Complete NFT Course </br>
 www.udemy.com/course/the-complete-nft-course-learn-everything-about-nfts </br>
