@@ -1,5 +1,5 @@
 # Blockchain-Practice
-A record of what I learned from Youtube, Linkedin Learning, Udemy, etc.
+Keeping a record of what I learned from Youtube, Linkedin Learning, Udemy, etc.
 Coding as well as general info about blockchain. Especially cryptos and NFTs.
 
 ------------------------------------------------------
