@@ -13,10 +13,11 @@ Finematics: https://www.youtube.com/channel/UCh1ob28ceGdqohUnR7vBACA (solid all 
 GoldSilver: https://www.youtube.com/channel/UCx7YSpyYtgaYik1Wen9jYSA (best easy-to-understand visual demonstration on how blockchain works) </br>
 https://www.youtube.com/c/Goldsilver (not blockchain related but their Hidden Secrets of Money series helped me understand why Bitcoin is so important) </br>
 신박한 신박사: https://www.youtube.com/c/%EC%8B%A0%EB%B0%95%ED%95%9C%EC%8B%A0%EB%B0%95%EC%82%AC (got to know many big names in crypto and Bitcoin maximalists like Michael Saylor, Jack Mallers, Jack Dorsey, Robert Breedlove, Jimmy Song, etc. Mostly clips of their interviews in which they emphasize the importance and potential of cryptos) </br>
+Miss Defi: https://www.youtube.com/channel/UCnrXcnEYG4ea2UBGq4WEkDA/featured (different types of wallets, how to use dapps, ways you can make money with dapps like yield farming, etc.) </br>
 Lex Fridman: https://www.youtube.com/c/lexfridman (blockchain related interviews) </br>
  </br>
+ 
 Other than watching videos, I played around with Dapps like Compound Finance, Uniswap, PoolTogether, etc. because gas fees were way lower back then... </br>
-Miss Defi: https://www.youtube.com/channel/UCnrXcnEYG4ea2UBGq4WEkDA/featured (different types of wallets, how to use dapps, ways you can make money with dapps like yield farming, etc.) </br>
 
 ------------------------------------------------------
 
