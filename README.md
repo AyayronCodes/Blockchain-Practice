@@ -59,3 +59,9 @@ Pretty short course with just over one hour of vids, finished today. </br>
 Just trying out Linkedin Learning since they offer one month free trial. The contents seem to be better than Udemy. </br>
 -Linkedin: Become a Blockchain Developer </br>
 
+------------------------------------------------------
+
+<Interesting points/qustions to look into>
+- Blockchain vs. AI: blockchain brings decentralization, but AI brings more "centralization"? With improved AI technology, powerful organizations & companies like big tech can get even more powerful. Conversely, blockchain technology could potentially restrain those them from gaining more control of society and keep them in check. </br>
+- One of the main opposition to Bitcoin is that it uses too much electricity and hence it destroys our environment. Media saying that it uses up as much electricity as entire nation of Argentina does or sth. However, is that really true? A lot of electricity goes to "waste", especially during night time when electricity usage is way less times when people are awake and working. Since we can't store all the excess electricity, some places even experience difficulty trying to get rid of it. Look more into the reasons why Bitcoin is not really causing much environmental damage.
+- When Ethereum switches over to POS, should it still be considered decentralized? Ethereum already had past issues that impacted its decentralization aspect of it with the foundation kicking in to "reverse" the malicious transactions with fork which never happens to Bitcoin with its creator, Satoshi, pretty much completely out of the picture. Is Ethereum Foudation a hindrance to Ethereum's decentralization? Now, switching over to POS this year could mean that ppl with more eth gain more power since their chances of getting to mine is obviously higher.
