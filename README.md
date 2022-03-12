@@ -25,3 +25,12 @@ constant </br>
 enum </br>
 
 ------------------------------------------------------
+
+Couldn't do much because of midterms...
+
+------------------------------------------------------
+
+<3/11> </br>
+- Linkedin: Blockchain Basics </br>
+https://www.linkedin.com/learning/blockchain-basics-14414119/the-future-of-blockchain-innovation?autoSkip=true&autoplay=true&resume=false </br>
+Just trying out Linkedin Learning since they offer one month free trial. The contents seem to be better than Udemy.
