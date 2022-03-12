@@ -58,7 +58,13 @@ Good recap of what blockchain is. I liked the last two parts in which the instru
 Pretty short course with just over one hour of vids, finished today. </br>
 Just trying out Linkedin Learning since they offer one month free trial. The contents seem to be better than Udemy. </br>
 -Linkedin: Become a Blockchain Developer </br>
+Finished section 1 and half of section 2. Both sections are mostly high level overview of blockchain and gets into more details about Ethereum. </br>
 
+------------------------------------------------------
+
+<3/12> </br>
+- Linkedin: Blockchain Basics </br>
+Finished section 2 and section 3. Section 3 is more in-depth info about Ethereum and setup for coding. </br>
 ------------------------------------------------------
 
 <Interesting points/qustions to look into>
