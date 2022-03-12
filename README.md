@@ -16,6 +16,7 @@ https://www.youtube.com/c/Goldsilver (not blockchain related but their Hidden Se
 Lex Fridman: https://www.youtube.com/c/lexfridman (blockchain related interviews) </br>
  </br>
 Other than watching videos, I played around with Dapps like Compound Finance, Uniswap, PoolTogether, etc. because gas fees were way lower back then... </br>
+Miss Defi: https://www.youtube.com/channel/UCnrXcnEYG4ea2UBGq4WEkDA/featured (different types of wallets, how to use dapps, ways you can make money with dapps like yield farming, etc.) </br>
 
 ------------------------------------------------------
 
