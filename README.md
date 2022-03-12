@@ -5,7 +5,7 @@ Coding as well as general info about blockchain. Especially cryptos and NFTs.
 ------------------------------------------------------
 
 <2021> </br>
-Watched quite a bit of Youtube videos about blockchain and cryptos </br>
+Just watched videos about blockchain mostly, never tried to implement it </br>
 Some of the channels I really liked are: </br>
 Whteboard Crypto: https://www.youtube.com/c/WhiteboardCrypto (easier to watch for beginners, watched most of the vids) </br>
 Finematics: https://www.youtube.com/channel/UCh1ob28ceGdqohUnR7vBACA (solid all around, learned a lot of defi related stuff here, watched most of the vids) </br>
