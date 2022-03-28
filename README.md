@@ -65,6 +65,14 @@ Finished section 1 and half of section 2. Both sections are mostly high level ov
 <3/12> </br>
 - Linkedin: Blockchain Basics </br>
 Finished section 2 and section 3. Section 3 is more in-depth info about Ethereum and setup for coding. </br>
+
+------------------------------------------------------
+<~3/28> </br>
+- Linkedin: Blockchain Basics </br>
+Finished up to section 7, building basic supply chain dapp
+
+
+
 ------------------------------------------------------
 
 <Interesting points/qustions to look into>
