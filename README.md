@@ -69,8 +69,9 @@ Finished section 2 and section 3. Section 3 is more in-depth info about Ethereum
 ------------------------------------------------------
 <~3/28> </br>
 - Linkedin: Blockchain Basics </br>
-Finished up to section 7, building basic supply chain dapp
-
+Finished up to section 7, building basic supply chain dapp. </br>
+Got to learn about coding based on ERC20. </br>
+event-driven programming, publish and subscribe model. </br>
 
 
 ------------------------------------------------------
