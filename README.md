@@ -90,7 +90,7 @@ event-driven programming, publish and subscribe model. </br>
 - Read Mastering Bitcoin and some Bitcoin books I found at Emory library like The Book of Satoshi, The Bitcoin Standard, and forgot the names. </br>
 - I tried to follow along the C++ code which I have no experience in, but eventually decided to stick to Ethereum stuff first than Bitcoin because solidity is easier to learn for JavaScript users. </br>
 - Finished Ethereum and Solidity: The Complete Developer's Guide course on Udemy and redoing some of the stuff I learned there right now (different repo's). </br>
-- Should review React and NodeJS too because I have not used them for a while. Reviewing them will help me create practice projects using smart contracts too.
+- Should start reviewing React/Redux and NodeJS because I have not used them for a while. Reviewing them will help me create practice projects using smart contracts too.
 
 
 
