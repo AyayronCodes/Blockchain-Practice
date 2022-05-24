@@ -77,19 +77,19 @@ event-driven programming, publish and subscribe model. </br>
 ------------------------------------------------------
 
 <4/12> </br>
-Came back from Bitcoin Conference in Miami. </br>
-Looks like apps with lightening network really will come into our daily lives very soon so that we will be getting goods and services with btc. </br>
-Bicoin has been criticized heavily for not being a good medium of exchange, but not anymore. </br>
-I'll try to reread Mastering Bitcoin and then read Matering the Lightning Network. </br>
+- Came back from Bitcoin Conference in Miami. </br>
+- Looks like apps with lightening network really will come into our daily lives very soon so that we will be getting goods and services with btc. </br>
+- Bicoin has been criticized heavily for not being a good medium of exchange, but not anymore. </br>
+- I'll try to reread Mastering Bitcoin and then read Matering the Lightning Network. </br>
 
 ------------------------------------------------------
 
 <5/24> </br>
-Been a really long time since I updated because of finals, papers, family coming over for graduation, trip after graduation, and whole lotta other excuses. </br>
-My LinkedIn trial is over, so no longer using it (felt like not all lessons there were straight-forward & informative, think it's better to compare and buy individual lessons somewhere else) </br>
-Read Mastering Bitcoin and some Bitcoin books I found at Emory library like The Book of Satoshi, The Bitcoin Standard, and forgot the names. </br>
-I tried to follow along the C++ code which I have no experience in, but eventually decided to stick to Ethereum stuff first than Bitcoin because solidity is easier to learn for JavaScript users. </br>
-Finished Ethereum and Solidity: The Complete Developer's Guide course on Udemy and redoing some of the stuff I learned there right now (different repo's). </br>
+- Been a really long time since I updated because of finals, papers, family coming over for graduation, trip after graduation, and whole lotta other excuses. </br>
+- My LinkedIn trial is over, so no longer using it (felt like not all lessons there were straight-forward & informative, think it's better to compare and buy individual lessons somewhere else) </br>
+- Read Mastering Bitcoin and some Bitcoin books I found at Emory library like The Book of Satoshi, The Bitcoin Standard, and forgot the names. </br>
+- I tried to follow along the C++ code which I have no experience in, but eventually decided to stick to Ethereum stuff first than Bitcoin because solidity is easier to learn for JavaScript users. </br>
+- Finished Ethereum and Solidity: The Complete Developer's Guide course on Udemy and redoing some of the stuff I learned there right now (different repo's). </br>
 
 
 
