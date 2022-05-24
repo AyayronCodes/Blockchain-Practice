@@ -1,12 +1,12 @@
 # Blockchain-Practice
-Keeping a record of what I learned from Youtube, Linkedin Learning, Udemy, etc.
+Keeping a record of what I learned from Youtube, Udemy, Linkedin Learning, Coursera, etc.
 Coding as well as general info about blockchain. Especially cryptos and NFTs.
 
 ------------------------------------------------------
 
 <2021> </br>
-Just watched videos about blockchain mostly, never tried learning to code and implement it since I was mostly working on web dev.</br></br>
-Some of the channels I really liked are: </br>
+
+Record of some of the channels I really liked: </br>
 Whteboard Crypto: https://www.youtube.com/c/WhiteboardCrypto (easier to watch for beginners, watched most of the vids) </br>
 Finematics: https://www.youtube.com/channel/UCh1ob28ceGdqohUnR7vBACA (solid all around, learned a lot of defi related stuff here, watched most of the vids) </br>
 99Bitcoins: https://www.youtube.com/c/Bitcoinwithpaypal/featured (more detailed than Whiteboard, watched like half of cryto related vids) </br>
@@ -81,3 +81,14 @@ Came back from Bitcoin Conference in Miami.
 Looks like apps with lightening network really will come into our daily lives very soon so that we will be getting goods and services with btc.
 Bicoin has been criticized heavily for not being a good medium of exchange, but not anymore.
 I'll try to reread Mastering Bitcoin and then read Matering the Lightning Network.
+
+------------------------------------------------------
+
+<5/24> </br>
+Been a really long time since I updated.
+My LinkedIn trial is over, so no longer on it
+Read Mastering Bitcoin and some Bitcoin books I found at Emory library. I tried to follow along the C++ code which I have no experience in, but eventually decided to stick to Ethereum stuff first than Bitcoin because solidity is easier to learn for JavaScript users
+Finished Ethereum and Solidity: The Complete Developer's Guide course on Udemy and redoing some of the stuff I learned there right now (different repo's)
+
+
+
