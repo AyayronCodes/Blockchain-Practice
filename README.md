@@ -1,6 +1,6 @@
 # Blockchain-Practice
-Keeping a record of what I learned from Youtube, Udemy, Linkedin Learning, Coursera, etc.
-Coding as well as general info about blockchain. Especially cryptos and NFTs.
+
+Most projects require your mneumonic & provider argument in deploy.js file
 
 ------------------------------------------------------
 
