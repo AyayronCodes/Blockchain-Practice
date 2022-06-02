@@ -92,5 +92,8 @@ event-driven programming, publish and subscribe model. </br>
 - Finished Ethereum and Solidity: The Complete Developer's Guide course on Udemy and redoing some of the stuff I learned there right now (different repo's). </br>
 - Should start reviewing React/Redux and NodeJS because I have not used them for a while. Reviewing them will help me create practice projects using smart contracts too.
 
+------------------------------------------------------
 
+<6/2> </br>
+- keep learning to make websites that take care of smart contracts. </br>
 
