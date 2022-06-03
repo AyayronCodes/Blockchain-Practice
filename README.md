@@ -96,4 +96,6 @@ event-driven programming, publish and subscribe model. </br>
 
 <6/2> </br>
 - keep learning to make websites that take care of smart contracts. </br>
+- freeCodeCamp recently released this course on YouTube: https://www.youtube.com/watch?v=gyMwXuJrbJQ </br>
+will start looking into this.
 
