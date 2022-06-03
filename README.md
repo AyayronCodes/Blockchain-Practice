@@ -8,6 +8,7 @@ Most projects require your mneumonic & provider argument in deploy.js file
 
 Record of some of the channels I really liked: </br>
 Whteboard Crypto: https://www.youtube.com/c/WhiteboardCrypto (easier to watch for beginners, watched most of the vids) </br>
+Patrick Collins: https://www.youtube.com/c/PatrickCollins (great content, has free courses on freeCodeCamp channel too) </br>
 Finematics: https://www.youtube.com/channel/UCh1ob28ceGdqohUnR7vBACA (solid all around, learned a lot of defi related stuff here, watched most of the vids) </br>
 99Bitcoins: https://www.youtube.com/c/Bitcoinwithpaypal/featured (more detailed than Whiteboard, watched like half of cryto related vids) </br>
 https://www.youtube.com/channel/UCx7YSpyYtgaYik1Wen9jYSA (best easy-to-understand visual demonstration on how blockchain works) </br>
